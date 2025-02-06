@@ -1,17 +1,5 @@
 ---
 title: "About Me"
-image: 
-about:
-template: solana
-image-shape:
-image-width:
-links:
-- text:
-  href:
-- text:
-  href:
-- text:
-- text:
 ---
 
 About this site
