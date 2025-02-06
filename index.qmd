@@ -1,9 +1,17 @@
 ---
-title: "rmdelorie.github.io"
----use
+title: "Rachel's Website"
+image: IMG_5787.jpg
+about:
+  template: Solana
+  image-shape: rectangle
+  image-width: 10em
+  links:
+   - text: LinkedIn
+     href: https://www.linkedin.com/in/rdelorie/
+   - text: Email
+     href: //rdelorie@colostate.edu
+   - text: 3rd Year Ecosystem Science and Sustainability Major, Warner College of Natural Resources
 ---
-
-This is a Quarto website. pppppnkn
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
