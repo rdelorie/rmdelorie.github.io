@@ -1,5 +1,8 @@
 ---
 title: "Rachel's Website"
+links:
+  text:  LinkedIn
+  href: //https://www.linkedin.com/in/rdelorie/
 ---
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
