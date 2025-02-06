@@ -1,0 +1,7 @@
+---
+title: "Resume"
+format: html
+image: NR_Resume_9-12-2024.pdf
+image-shape: rectangle
+---
+
