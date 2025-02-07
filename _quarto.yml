@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs
   
+  
 website:
   title: "rmdelorie.github.io"
   navbar:
