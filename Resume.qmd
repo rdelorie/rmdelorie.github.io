@@ -1,5 +1,3 @@
 ---
 title: "Resume"
-format: html
 ---
-
