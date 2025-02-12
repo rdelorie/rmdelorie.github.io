@@ -4,7 +4,7 @@ project:
   
   
 website:
-  title: "rmdelorie.github.io"
+  title: "Rachel's Website"
   navbar:
     left:
       - href: index.qmd

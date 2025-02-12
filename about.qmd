@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+link: //rdelorie@colostate.edu
 ---
 
 -   3rd year undergraduate student in Ecosystem Science and Sustainability with a minor in Sociology
