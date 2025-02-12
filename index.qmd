@@ -1,6 +1,17 @@
 ---
 title: "Rachel's Website"
+image: IMG_5787.jpg
+about:
+  template: solana
+  image-shape: rectangle
+  image-width: 10em
 links:
-  text:  LinkedIn
-  href: www.linkedin.com/in/rdelorie/
+  - text: LinkedIn 
+    href: //https://www.linkedin.com/in/rdelorie/
+  - text: Email
+    href: //rdelorie@colostate.edu
+  - text: Warner College of Natural Resources
+    href: //https://warnercnr.colostate.edu/
 ---
+
+![](images/IMG_5787.jpg){width="447" height="603"}

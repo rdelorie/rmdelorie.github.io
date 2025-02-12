@@ -1,9 +1,16 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "3rd year undergraduate student in Ecosystem Science and Sustainability with a minor in Sociology\nWarner College Career Ambassador\nRPG Resources Environmental Scientist intern"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Rachel’s Website",
     "section": "",
-    "text": "To learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Linkedin | rdelorie@colostate.edu | Warner College of Natural Resources"
   }
 ]
