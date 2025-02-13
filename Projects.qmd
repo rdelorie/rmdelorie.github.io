@@ -1,0 +1,8 @@
+---
+title: "Projects"
+format: html
+---
+
+I have developed graduate level course content under Dr. Stu Cottrell in the Human Dimensions of Natural Resources Department. Through this project, I gained experience communicating scientific processes and concepts to students who are interested in Natural Resource Tourism.
+
+![](images/Screen Shot 2024-05-03 at 12.44.03 PM.png)

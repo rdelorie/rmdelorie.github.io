@@ -11,6 +11,7 @@ website:
         text: Home
       - about.qmd
       - Resume.qmd
+      - Project.qmd
 
 format:
   html:
