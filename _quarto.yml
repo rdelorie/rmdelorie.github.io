@@ -16,9 +16,9 @@ website:
 format:
   html:
     theme:
-      - solana
+      - agency
     css: styles.css
     toc: true
-
+    
 editor: visual
 
